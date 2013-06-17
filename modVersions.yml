@@ -1,0 +1,34 @@
+pre1: [
+  version: "pre1",
+  url: "https://dl.dropboxusercontent.com/u/25591134/EE3/MC%201.4.2/pre1/ee3-universal-pre1.jar"
+]
+
+pre1a: [
+  version: "pre1a",
+  url: "https://dl.dropboxusercontent.com/u/25591134/EE3/MC%201.4.2/pre1a/ee3-universal-pre1a.jar"
+]
+
+pre1c: [
+  version: "pre1c",
+  url: "https://dl.dropboxusercontent.com/u/25591134/EE3/MC%201.4.5/pre1c/ee3-universal-pre1c.jar"
+]
+
+pre1d: [
+  version: "pre1d",
+  url: "https://dl.dropboxusercontent.com/u/25591134/EE3/MC%201.4.5/pre1d/ee3-universal-pre1d.jar"
+]
+
+pre1e: [
+  version: "pre1e",
+  url: "https://dl.dropboxusercontent.com/u/25591134/EE3/MC%201.4.6/pre1e/ee3-universal-pre1e.jar"
+]
+
+pre1f: [
+  version: "pre1f",
+  url: "https://dl.dropboxusercontent.com/u/25591134/EE3/MC%201.4.7/pre1f/ee3-universal-pre1f.jar"
+]
+
+pre1g: [
+  version: "pre1g",
+  url: "https://dl.dropboxusercontent.com/u/25591134/EE3/MC%201.5.1/pre1g/ee3-universal-pre1g.jar"
+]

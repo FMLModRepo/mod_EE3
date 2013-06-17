@@ -1,0 +1,17 @@
+# The screen name for the mod
+prettyname: "Equivalent Exchange 3"
+
+# Prettyname to lower without spaces or symbols
+slugname: "ee3"
+
+# Give the official description given by the author at the site.
+description: "To summarize: this mod allows you to transmute tons of materials into other materials. It adds a lot of what is classified by many as "endgame content", to make you feel more godlike in your sandbox world. If this offends your Minecrafting sensibilities, this may not be the mod for you. These items are psychotically expensive, so before you bash them, try acquiring the items legitimately. You'll find it's not exactly a cakewalk."
+
+# Give the url to the site/forum thread for the mod.
+url: "http://www.minecraftforum.net/topic/1540010-equivalent-exchange-3-pre1h/"
+
+# List all versions available in modVersions.yml
+versions: [ pre1 , pre1a , pre1c , pre1d , pre1e , pre1f , pre1g ]
+
+# mod or coremod
+type: "mod"
