@@ -2,7 +2,10 @@
 prettyname: "Equivalent Exchange 3"
 
 # Prettyname to lower without spaces or symbols
-slugname: "ee3"
+name: "ee3"
+
+# Person or people who made this mod.
+author: "Pahimar"
 
 # Give the official description given by the author at the site.
 description: "To summarize: this mod allows you to transmute tons of materials into other materials. It adds a lot of what is classified by many as "endgame content", to make you feel more godlike in your sandbox world. If this offends your Minecrafting sensibilities, this may not be the mod for you. These items are psychotically expensive, so before you bash them, try acquiring the items legitimately. You'll find it's not exactly a cakewalk."
